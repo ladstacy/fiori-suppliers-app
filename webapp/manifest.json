@@ -105,7 +105,7 @@
                                 "Actions": {
                                     "getProducts": {
                                         "id": "getProductsButton",
-                                        "text": "Get Products",
+                                        "text": "Products",
                                         "press": "getProductsBtnPress",
                                         "requiresSelection": true
                                     }
