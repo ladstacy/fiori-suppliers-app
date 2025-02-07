@@ -1,0 +1,8 @@
+<core:FragmentDefinition xmlns:core="sap.ui.core" xmlns="sap.m">
+    <Column minScreenWidth="Small" demandPopin="true">
+        <Text text="Custom"/>
+        <customData>
+            <core:CustomData key="p13nData" value="\{&quot;columnKey&quot;: &quot;Address&quot;, &quot;leadingProperty&quot;: &quot;Address&quot;, &quot;columnIndex&quot;: &quot;2&quot;}"/>
+        </customData>
+    </Column>
+</core:FragmentDefinition>
