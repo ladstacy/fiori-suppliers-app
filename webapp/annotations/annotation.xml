@@ -57,6 +57,8 @@
                         <PropertyPath>CompanyName</PropertyPath>
                         <PropertyPath>ContactName</PropertyPath>
                         <PropertyPath>ContactTitle</PropertyPath>
+                        <PropertyPath>City</PropertyPath>
+
                     </Collection>
                 </Annotation>
 
